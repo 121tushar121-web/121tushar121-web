@@ -8,61 +8,29 @@
 <p align="center">
   <a href="https://github.com/121tushar121-web">GitHub</a>
   ·
-  <a href="https://www.linkedin.com">LinkedIn</a>
-  ·
-  <a href="mailto:121tushar121@gmail.com">Email</a>
+  <a href="https://apoapsis-outpost-zero.vercel.app/">Live project</a>
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top" style="padding: 18px 18px 12px 18px; border: 1px solid #2e3b4e; border-radius: 10px; background: #050d18;">
-        <pre style="margin:0; color:#dfeaf7; font-family: 'Fira Code', 'Consolas', monospace; font-size: 10px; line-height: 1.15; text-align:left; white-space: pre;">
-        .-"""-.
-      .'  .-. . '.
-     /   /   \   \\
-    |   |  o o|   |
-    |   |  ^  |   |
-    |   |  -  |   |
-     \\  \\_._/  /   /
-      '._   _. '
-          `-.-'
-         .-"""-. 
-        /  _ _  \\
-       /  (   )  \\
-       |   .-.   |
-       |  /   \\  |
-        \\_\\_._/__/ 
-           / \\
-          /   \\
-         /_____|\
-        </pre>
-      </td>
-      <td width="50%" valign="top" style="padding: 18px 18px 12px 18px; border: 1px solid #2e3b4e; border-radius: 10px; background: #050d18; color:#dfeaf7;">
-        <div style="font-size: 15px; font-weight: 700; color: #dfeaf7; margin-bottom: 14px;">MD. TUSHAR AHMED</div>
-        <div style="font-size: 11px; color:#8fa8c7; letter-spacing: 1px; margin-bottom: 14px;">DEVELOPER · BUILDER · SPACE & INTERACTIVE SYSTEMS</div>
+## Featured project
 
-        <div style="display:grid; gap:8px; margin-top:12px;">
-          <div><strong style="color:#dfeaf7;">NAME</strong> &nbsp; Md. Tushar Ahmed</div>
-          <div><strong style="color:#dfeaf7;">ROLE</strong> &nbsp; CS Student | Future AI Engineer</div>
-          <div><strong style="color:#dfeaf7;">BUILD</strong> &nbsp; Solite in C · Search Engine · Virtual Farm</div>
-          <div><strong style="color:#dfeaf7;">STACK</strong> &nbsp; C++ · Python · SQL · JavaScript</div>
-          <div><strong style="color:#dfeaf7;">CLOUD</strong> &nbsp; Azure · Google Cloud · Vercel · Netlify</div>
-          <div><strong style="color:#dfeaf7;">LOCATION</strong> &nbsp; Bangladesh</div>
-        </div>
+### [APOAPSIS — Outpost Zero](https://github.com/121tushar121-web/APOAPSIS-Outpost-Zero)
 
-        <div style="margin-top:18px; border-top:1px solid #2e3b4e; padding-top:12px;">
-          <ul style="margin:0; padding-left:18px; color:#dfeaf7; line-height:1.8; font-size: 13px;">
-            <li>Building systems software and practical tools</li>
-            <li>Exploring AI and machine learning</li>
-            <li>Learning through testing and open source</li>
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+A five-cycle survival trainer for a fictional lunar south-polar outpost, built with Team APOAPSIS for the NASA Space Apps Challenge 2026. Make decisions across power, water, oxygen, food, radiation, and crew morale while balancing limited resources and uncertain conditions.
 
-<p align="center">
-  <sub>Currently building, learning, and sharing projects here on GitHub.</sub>
+- 🚀 [Play the live demo](https://apoapsis-outpost-zero.vercel.app/)
+- 🧪 Built with React, TypeScript, Vite, and CSS
+- ✅ Includes automated simulation and persistence tests
+- ♿ Designed with clear status text, visible focus styles, and screen-reader announcements
+- 📖 The project documents its NASA references, assumptions, and limitations
+
+## What I enjoy building
+
+I’m interested in interactive applications that make complicated systems easier to explore. Outpost Zero brought together simulation logic, accessible UI, testing, and science communication in one project.
+
+## Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,vite,css,git,github" height="40" alt="TypeScript, React, Vite, CSS, Git, and GitHub" />
 </p>
+
+<p><sub>Currently building, learning, and sharing projects here on GitHub.</sub></p>
